@@ -42,7 +42,7 @@ BudaRent is a full-stack web application for car rental services, featuring a mo
   - API Documentation with Swagger
   - Responsive design
   - Interactive maps for car locations
-  - Email notifications
+  - Email notifications(with mailtrap)
 
 ## Technology Stack
 
