@@ -112,13 +112,15 @@ BudaRent is a full-stack web application for car rental services, featuring a mo
    ```
    npm install
    ```
+2. Add Google Maps API key:
+   
 
-2. Start the development server:
+3. Start the development server:
    ```
    npm start
    ```
 
-3. Access the application at `http://localhost:4200`
+4. Access the application at `http://localhost:4200`
 
 ## API Documentation
 The API documentation is available at `http://localhost:5000/api-docs` when the backend server is running.
