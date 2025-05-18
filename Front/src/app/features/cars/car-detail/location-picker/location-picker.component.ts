@@ -49,7 +49,7 @@ export class BookingLocationPickerComponent implements AfterViewInit {
   map: any = null;
   marker: any = null;
   geocoder: any = null;
-  apiKey = 'AIzaSyD5lofcHqSpw1BEmfwdZ0X2NQfNHQc4b4o';
+  apiKey = 'Key '; //enter key here
   
   constructor(private ngZone: NgZone, private mapsService: MapsService) {}
 
