@@ -77,17 +77,13 @@ RentCar is a full-stack web application for car rental services, featuring a mod
 - Angular CLI (v19.2.x)
 
 ### Backend Setup
-1. Navigate to the backend directory:
-   ```
-   cd rentcar-backend
-   ```
 
-2. Install dependencies:
+1. Install dependencies:
    ```
    npm install
    ```
 
-3. Create a `.env` file in the root directory with the following variables:
+2. Create a `.env` file in the root directory with the following variables:
    ```
    PORT=5000
    MONGODB_URI=mongodb://localhost:27017/rentcar
@@ -106,28 +102,24 @@ RentCar is a full-stack web application for car rental services, featuring a mod
    FRONTEND_URL=http://localhost:4200
    ```
 
-4. Start the backend server:
+3. Start the backend server:
    ```
    node server.js
    ```
 
 ### Frontend Setup
-1. Navigate to the frontend directory:
-   ```
-   cd project-bolt-sb1-eui7ezxp/project
-   ```
 
-2. Install dependencies:
+1. Install dependencies:
    ```
    npm install
    ```
 
-3. Start the development server:
+2. Start the development server:
    ```
    npm start
    ```
 
-4. Access the application at `http://localhost:4200`
+3. Access the application at `http://localhost:4200`
 
 ## API Documentation
 The API documentation is available at `http://localhost:5000/api-docs` when the backend server is running.
