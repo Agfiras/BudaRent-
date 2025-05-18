@@ -1,6 +1,6 @@
-# RentCar - Car Rental Application
+# BudaRent - Car Rental Application
 
-RentCar is a full-stack web application for car rental services, featuring a modern Angular frontend and a Node.js/Express backend with MongoDB database.
+BudaRent is a full-stack web application for car rental services, featuring a modern Angular frontend and a Node.js/Express backend with MongoDB database.
 
 ## Features
 
