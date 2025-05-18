@@ -566,7 +566,7 @@ export class CarDetailComponent implements OnInit, AfterViewInit {
   pickupAutocomplete: any = null;
   dropoffAutocomplete: any = null;
   googleMapsLoaded = false;
-  googleMapsApiKey = 'AIzaSyD5lofcHqSpw1BEmfwdZ0X2NQfNHQc4b4o';
+  googleMapsApiKey = 'key'; //app key 
   
   // Booking form submission
   bookingData = {
