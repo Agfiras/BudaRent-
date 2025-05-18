@@ -23,7 +23,6 @@ BudaRent is a full-stack web application for car rental services, featuring a mo
   - Car reservation with date selection
   - Booking management (view, cancel)
   - Additional services selection
-  - Payment status tracking
 
 - **User Profile Management**
   - Profile viewing and editing
