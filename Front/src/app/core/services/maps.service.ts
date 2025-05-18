@@ -6,7 +6,7 @@ import { Observable, Subject, of } from 'rxjs';
 })
 export class MapsService {
   private googleMapsLoaded = new Subject<boolean>();
-  private readonly apiKey = 'AIzaSyD5lofcHqSpw1BEmfwdZ0X2NQfNHQc4b4o';
+  private readonly apiKey = 'key'; // enter key
   
   constructor() {
     this.loadGoogleMapsScript();
